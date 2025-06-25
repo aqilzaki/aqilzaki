@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqilzaki
 - 👀 I’m interested in backend developer
-- 🌱 I’m currently learning php laravel 11
+- 🌱 I’m currently learning php laravel 11 and python.
 - 💞️ I’m looking to collaborate on git hub
 - 📫 How to reach me in email mzaki5457@gmail.com or aqilzaki54@gmail.com
 - 😄 Pronouns: ...
